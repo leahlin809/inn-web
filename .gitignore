@@ -41,3 +41,16 @@ Desktop.ini
 *.temp
 *.bak
 *~
+
+# Local QA and generated review artifacts
+.qa/
+.docx-review/
+*.tsbuildinfo
+
+# Local source material and preview logs
+8月1日/
+明居 设计所需图片/
+prompt.docx
+.preview-*.log
+.tools/
+assets/
